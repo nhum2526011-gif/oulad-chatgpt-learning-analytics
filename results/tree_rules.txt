@@ -1,0 +1,46 @@
+|--- weeks_active_4w <= 2.50
+|   |--- early_score <= 53.75
+|   |   |--- studied_credits <= 47.50
+|   |   |   |--- clicks_4w <= 2.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- clicks_4w >  2.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- studied_credits >  47.50
+|   |   |   |--- early_score <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- early_score >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |--- early_score >  53.75
+|   |   |--- num_of_prev_attempts <= 0.50
+|   |   |   |--- early_score <= 67.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- early_score >  67.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- num_of_prev_attempts >  0.50
+|   |   |   |--- highest_education_Lower Than A Level <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- highest_education_Lower Than A Level >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|--- weeks_active_4w >  2.50
+|   |--- early_score <= 71.75
+|   |   |--- early_score <= 4.50
+|   |   |   |--- weeks_active_4w <= 3.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- weeks_active_4w >  3.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- early_score >  4.50
+|   |   |   |--- early_score <= 58.75
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- early_score >  58.75
+|   |   |   |   |--- truncated branch of depth 2
+|   |--- early_score >  71.75
+|   |   |--- highest_education_Lower Than A Level <= 0.50
+|   |   |   |--- active_days_4w <= 14.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- active_days_4w >  14.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- highest_education_Lower Than A Level >  0.50
+|   |   |   |--- active_days_4w <= 11.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- active_days_4w >  11.50
+|   |   |   |   |--- truncated branch of depth 2

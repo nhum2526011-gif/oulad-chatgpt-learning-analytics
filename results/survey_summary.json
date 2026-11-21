@@ -1,0 +1,18 @@
+{
+  "so_phan_hoi": 23218,
+  "so_quoc_gia_hoc": 109,
+  "tra_loi_Q13": 22414,
+  "da_dung": 16010,
+  "ty_le_da_dung": 71.42857142857143,
+  "dung_nhieu_tro_len": 18.015698587127158,
+  "spearman_Q15_Q35a": 0.06314738232675739,
+  "p_value": 3.138631738326428e-12,
+  "n_cap": 12166,
+  "dong_y_tang_hieu_qua_Q26e": 59.364960776989165,
+  "dong_y_cai_thien_diem_Q27b": 46.90582959641256,
+  "ty_le_da_dung_theo_hinh_thuc": {
+    "Học trực tiếp": 68.89249260707813,
+    "Học trực tuyến": 66.31729394949977,
+    "Học kết hợp": 75.60873654509354
+  }
+}
