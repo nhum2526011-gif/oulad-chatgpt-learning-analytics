@@ -2,7 +2,7 @@
 
 Mini-project học phần CT999 Công nghệ số nâng cao (Trường Đại học Cần Thơ). Repo chứa toàn bộ mã nguồn, dữ liệu mẫu, báo cáo PDF sinh tự động và dashboard Streamlit.
 
-- **Dashboard:** [link Streamlit Cloud]
+- **Dashboard:** https://oulad-chatgpt-learning-analytics-vqlsdun5zgxfxd5bzrbh38.streamlit.app/
 - **Báo cáo PDF:** [`results/bao_cao_mini_project.pdf`](results/bao_cao_mini_project.pdf)
 
 ## Đề tài và mục tiêu
